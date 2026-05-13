@@ -39,4 +39,4 @@ An **Emotion Detection System** built using **Python** that analyzes human facia
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/kartikey-1112/Projects.git
+git clone https://github.com/kartikey-1112/Projects/tree/master/Emotion_detection
